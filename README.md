@@ -1,10 +1,15 @@
 # HTML Portfolio Website
 
+##Project URL
+LINK: https://roadmap.sh/projects/basic-html-website
+
+LIVE LINK: https://codemasterashish.github.io/html-basic-website/
+
 A simple multi-page portfolio website built using only HTML. This project demonstrates the use of semantic HTML, navigation links, tables, forms, and proper page structure without any CSS or JavaScript.
 
 ## Live Demo
 
-🔗 Add your GitHub Pages link here
+
 
 ## Features
 
